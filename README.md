@@ -3,7 +3,7 @@
 
 Here is the code implementation of the following paper:
 
-- Relation Discovery in Nonlinearly Related Large-Scale Settings, ICASSP 2022
+- A. Vosoughi, A. DSouza, A. Abidin and A. Wismüller, "Relation Discovery in Nonlinearly Related Large-Scale Settings," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 5103-5107, doi: 10.1109/ICASSP43922.2022.9747356.
 
 For the official acccess please see:
 - https://ieeexplore.ieee.org/abstract/document/9747356 
