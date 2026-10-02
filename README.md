@@ -43,13 +43,17 @@ We've validated our method through extensive testing:
 ## Installation
 
 ```bash
-# Installation instructions coming soon
+## Requirements
+
+Python 3.8 or newer with numpy, scipy, scikit-learn, matplotlib and Jupyter. No further installation: the method is implemented inside the notebooks.
 ```
 
 ## Usage
 
 ```python
-# Code examples coming soon
+## Running the code
+
+Open `Main_causal_climate.ipynb` to reproduce the experiments; `Explained_complete.ipynb` walks through the method step by step on the same data.
 ```
 
 ## Citation
