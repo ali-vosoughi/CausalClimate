@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Relation discovery in nonlinearly related large-scale settings"
+authors:
+  - family-names: Vosoughi
+    given-names: Ali
+repository-code: "https://github.com/ali-vosoughi/CausalClimate"
+preferred-citation:
+  type: conference-paper
+  title: "Relation Discovery in Nonlinearly Related Large-Scale Settings"
+  authors:
+    - family-names: Vosoughi
+      given-names: Ali
+    - family-names: Wismüller
+      given-names: Axel
+  conference:
+    name: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  year: 2022
