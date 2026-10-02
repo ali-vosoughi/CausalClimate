@@ -89,3 +89,8 @@ This research was partially funded by:
 ## References
 
 For official paper access, please visit: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9747356)
+
+
+## Patent notice
+
+The large-scale Granger causality methods implemented in this repository are the subject of patent rights held by Axel Wismüller and the University of Rochester. The MIT licence of this code grants no rights under those patents. Academic and research use with citation is welcome; for any commercial use, contact the patent holders.
