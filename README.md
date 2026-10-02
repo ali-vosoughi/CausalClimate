@@ -5,14 +5,14 @@
 This repository implements a novel method for discovering nonlinear causal relationships in large-scale climate systems, as presented in our IEEE ICASSP 2022 paper. Our approach addresses two critical challenges in climate science:
 
 1. The nonlinear nature of climate system interactions
-2. The "curse of dimensionality" when dealing with millions of sensors but limited temporal data
+2. The "curse of dimensionality" when dealing with large numbers of sensors but limited temporal data
 
 ## Background
 
 Climate change represents one of the most complex challenges facing science today. A key part of understanding climate systems is discovering how different variables influence each other - what we call "causal relationships." Traditional methods struggle with this because:
 
 - Climate systems are highly nonlinear - one variable's effect on another isn't always straightforward
-- We often have data from millions of sensors (high dimensionality)
+- We often have data from large numbers of sensors (high dimensionality)
 - Many datasets only cover a few decades (limited temporal samples)
 - Weather conditions can create misleading correlations (confounding variables)
 
@@ -38,7 +38,7 @@ We've validated our method through extensive testing:
    - 5-node nonlinear network
    - Two 34-node Zachary club networks
 
-2. **Real Climate Data**: Successfully tested on river discharge data from the upper Danube basin, correctly identifying genuine causal relationships while avoiding spurious correlations.
+2. **Real Climate Data**: Successfully tested on river discharge data from the upper Danube basin, estimating nonlinear Granger-causal relations on synthetic networks and on river-discharge data.
 
 ## Installation
 
